@@ -1,7 +1,7 @@
-<!-- 🌸 GITHUB PROFILE README for ANSHIKA TYAGI (Light Theme Version) -->
+<!-- 🌸 GITHUB PROFILE README for ANSHIKA TYAGI (Light Theme + Expo Links) -->
 
 <h1 align="center">Hi 👋, I'm Anshika Tyagi</h1>
-<h3 align="center">💻 AI & IoT Enthusiast | Cybersecurity Learner | Flutter & React Native Developer</h3>
+<h3 align="center">💻 AI & IoT Enthusiast | Cybersecurity Learner | React Native Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tech-Anshika&label=Profile%20views&color=FFC0CB&style=for-the-badge" alt="profile views" />
@@ -26,7 +26,6 @@
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-89CFF0?style=for-the-badge&logo=c&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-87CEFA?style=for-the-badge&logo=flutter&logoColor=black)
 
 #### 🧰 Tools & Technologies  
 ![Firebase](https://img.shields.io/badge/Firebase-FFECB3?style=for-the-badge&logo=firebase&logoColor=black)
@@ -40,16 +39,22 @@
 
 ### 📱 Featured Projects  
 
-#### 🧭 Go Travel – Smart Travel & Safety Companion App  
-> React Native app for seamless travel planning and one-tap SOS alerts.  
-> Features: Weather API, community chat, and multilingual support.  
+#### 🚗 [Tour-Travels App (Expo)](https://expo.dev/accounts/anshika-expo/projects/tour-travels)  
+> A smart travel companion built with **React Native & Expo** to plan trips easily and ensure safety.  
+> ✨ Features: One-tap SOS alerts, multilingual phrases, weather API, and community chat.  
+> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/tour-travels)
+
+#### 🍽️ [YumVerse App (Expo)](https://expo.dev/accounts/anshika-expo/projects/YumVerse)  
+> A delightful **React Native & Expo** app for food discovery and recipes, enhancing meal planning experiences.  
+> ✨ Features: Easy recipe search, ingredient filters, and responsive design.  
+> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/YumVerse)
 
 #### 🦺 DetectX – AI Safety Equipment Detection *(Top 5, BuildWithDelhi 2.0)*  
 > YOLOv8 model detecting helmets, vests & extinguishers (98% mAP).  
 > Integrated **Sarvam AI (AURA)** chatbot for multilingual safety assistance.  
 
 #### 💗 PCOSense – Health Monitoring for PCOS  
-> Flutter app integrating wearable sensors for health tracking.  
+> AI-based app integrating wearable sensors for women’s health tracking.  
 > Includes **AI chatbot**, **menstrual tracking**, and **Ayurvedic diet plans**.  
 
 ---
