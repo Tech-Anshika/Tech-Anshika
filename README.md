@@ -47,7 +47,7 @@
 #### 🍽️ [YumVerse App (Expo)](https://expo.dev/accounts/anshika-expo/projects/YumVerse)  
 > A delightful **React Native & Expo** app for food discovery and recipes, enhancing meal planning experiences.  
 > ✨ Features: Easy recipe search, ingredient filters, and responsive design.  
-> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/YumVerse)
+> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/YumVerse/builds/2bf254ad-40e2-407d-b566-5075acbfa89a)
 
 #### 🦺 DetectX – AI Safety Equipment Detection *(Top 5, BuildWithDelhi 2.0)*  
 > YOLOv8 model detecting helmets, vests & extinguishers (98% mAP).  
