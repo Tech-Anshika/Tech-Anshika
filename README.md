@@ -39,11 +39,6 @@
 
 ### 📱 Featured Projects  
 
-#### 🌸 [PcoSense – PCOD/PCOS Health Companion (Expo)](https://expo.dev/accounts/anshika-expo/projects/PcoSense)  
-> A comprehensive **React Native & Expo** app empowering women to manage PCOD/PCOS through AI-powered health insights.  
-> ✨ Features: Gemini AI chatbot, menstrual cycle tracking, personalized yoga & diet plans, medicine reminders, and progress analytics.  
-> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/PcoSense/builds/5e6b51bb-6093-43f1-9344-d3aab9561063) | [GitHub Repo →](https://github.com/Tech-Anshika/minor-project)
-
 #### 🚗 [Tour-Travels App (Expo)](https://expo.dev/accounts/anshika-expo/projects/tour-travels)  
 > A smart travel companion built with **React Native & Expo** to plan trips easily and ensure safety.  
 > ✨ Features: One-tap SOS alerts, multilingual phrases, weather API, and community chat.  
@@ -54,13 +49,14 @@
 > ✨ Features: Easy recipe search, ingredient filters, and responsive design.  
 > 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/YumVerse/builds/2bf254ad-40e2-407d-b566-5075acbfa89a)
 
+#### 🌸 [PcoSense – PCOD/PCOS Health Companion (Expo)](https://expo.dev/accounts/anshika-expo/projects/PcoSense)  
+> A comprehensive **React Native & Expo** app empowering women to manage PCOD/PCOS through AI-powered health insights.  
+> ✨ Features: Bilingual AI assistant (English/Hindi) with 200+ PCOS responses, text-to-speech support, cycle tracker, personalized yoga & diet plans, medicine reminders with Firebase integration, step counter, and detailed progress analytics dashboard.  
+> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/PcoSense/builds/5e6b51bb-6093-43f1-9344-d3aab9561063) | [GitHub Repo →](https://github.com/Tech-Anshika/minor-project)
+
 #### 🦺 DetectX – AI Safety Equipment Detection *(Top 5, BuildWithDelhi 2.0)*  
 > YOLOv8 model detecting helmets, vests & extinguishers (98% mAP).  
 > Integrated **Sarvam AI (AURA)** chatbot for multilingual safety assistance.  
-
-#### 💗 PCOSense – Health Monitoring for PCOS  
-> AI-based app integrating wearable sensors for women’s health tracking.  
-> Includes **AI chatbot**, **menstrual tracking**, and **Ayurvedic diet plans**.  
 
 ---
 
@@ -116,4 +112,5 @@
 ---
 
 <h3 align="center">🌷 Thanks for visiting my profile 🌷</h3>
-<p align="center">⭐ Let’s innovate for a smarter, safer, and sustainable future! ⭐</p>
+<p align="center">⭐ Let's innovate for a smarter, safer, and sustainable future! ⭐</p>
+
