@@ -42,7 +42,7 @@
 #### 🌸 [PcoSense – PCOD/PCOS Health Companion (Expo)](https://expo.dev/accounts/anshika-expo/projects/PcoSense)  
 > A comprehensive **React Native & Expo** app empowering women to manage PCOD/PCOS through AI-powered health insights.  
 > ✨ Features: Bilingual AI assistant (English/Hindi) with 200+ PCOS responses, text-to-speech support, cycle tracker, personalized yoga & diet plans, medicine reminders with Firebase integration, step counter, and detailed progress analytics dashboard.  
-> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/PcoSense/builds/5e6b51bb-6093-43f1-9344-d3aab9561063) | [GitHub Repo →](https://github.com/Tech-Anshika/minor-project)
+> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/PcoSense/builds/8a66e704-983c-4e23-bd04-456df58657e1) | [GitHub Repo →](https://github.com/Tech-Anshika/minor-project)
 
 #### 🚗 [Tour-Travels App (Expo)](https://expo.dev/accounts/anshika-expo/projects/tour-travels)  
 > A smart travel companion built with **React Native & Expo** to plan trips easily and ensure safety.  
