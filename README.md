@@ -47,12 +47,14 @@
 #### 🚗 [Tour-Travels App (Expo)](https://expo.dev/accounts/anshika-expo/projects/tour-travels)  
 > A smart travel companion built with **React Native & Expo** to plan trips easily and ensure safety.  
 > ✨ Features: One-tap SOS alerts, multilingual phrases, weather API, and community chat.  
-> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/tour-travels)
+> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/tour-travels) | [GitHub Repo →](https://github.com/Tech-Anshika/minor-project)
+
 
 #### 🍽️ [YumVerse App (Expo)](https://expo.dev/accounts/anshika-expo/projects/YumVerse)  
 > A delightful **React Native & Expo** app for food discovery and recipes, enhancing meal planning experiences.  
 > ✨ Features: Easy recipe search, ingredient filters, and responsive design.  
-> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/YumVerse/builds/2bf254ad-40e2-407d-b566-5075acbfa89a)
+> 🔗 [View on Expo →](https://expo.dev/accounts/anshika-expo/projects/YumVerse/builds/2bf254ad-40e2-407d-b566-5075acbfa89a) | [GitHub Repo →](https://github.com/Tech-Anshika/YumVerse)
+
 
 
 
