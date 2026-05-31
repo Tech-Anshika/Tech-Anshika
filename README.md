@@ -107,10 +107,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tech-Anshika&show_icons=true&theme=default" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Anshika&theme=default" alt="streak stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Anshika&layout=compact&theme=default" alt="top languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Tech-Anshika&theme=default" alt="GitHub streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Anshika&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
